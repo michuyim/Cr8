@@ -2,6 +2,12 @@
 
 Instant project directory. Eliminate the stress of project file management and organisation by creating a batch script that automatically generates the entire structure of your extensive project directory or your github repository on your local computer. This script will create the directories and the empty files, but you will still need to manually add the content to these files later.
 
+## [Download Files without wasting space](https://michuyim.github.io/Cr8/)
+
+Visit the project's webpage to download desired files/folders rather than with unnecessary ones
+
+
+
 ## Example
 
 To organize a GitHub repository that contains both the batch files for creating various project structures and the directories created by these batch files, you'll want to structure your repository to clearly separate the scripts from the project templates. Here's how you can set it up:
